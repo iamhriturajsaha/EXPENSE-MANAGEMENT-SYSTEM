@@ -1,5 +1,5 @@
 
-# EXPENSE MANAGEMENT SYSTEM using MERN
+# 💸 EXPENSE MANAGEMENT SYSTEM
 
 ## Project Description:
 
