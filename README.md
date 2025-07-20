@@ -119,18 +119,18 @@ To run this project, you will need to add the following environment variables to
 
 create config folder and add config.env file in it and all all env variables there.
 
-`MONGO_URL` : Your MongoDB Connection String
+`MONGO_URL` - Your MongoDB Connection String
 
-`PORT`: PORT number
+`PORT` - PORT number
 
 
 ## Tech Stack
 
-**Client:** React, Redux, react-bootstrap, Material Icons, tsparticles
+**Client -** React, Redux, react-bootstrap, Material Icons, tsparticles
 
-**Server:** Node, Express
+**Server -** Node, Express
 
-**Database:** MongoDB
+**Database -** MongoDB
 
 
 ## Screenshots
