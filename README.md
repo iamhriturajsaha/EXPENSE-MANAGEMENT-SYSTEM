@@ -1,5 +1,5 @@
 
-# 💸 EXPENSE MANAGEMENT SYSTEM
+# 💸 Expense Management System
 
 ## Project Description:
 
