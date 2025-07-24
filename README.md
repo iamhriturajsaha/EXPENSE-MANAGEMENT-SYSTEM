@@ -2,7 +2,7 @@
 
 ## Project Description -
 
-    The Expense Management System is a web-based application designed to assist users in tracking and managing their daily expenses. This system is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a scalable, responsive and user-friendly application.
+The Expense Management System is a web-based application designed to assist users in tracking and managing their daily expenses. This system is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a scalable, responsive and user-friendly application.
 
 ## Objectives -
 
@@ -19,12 +19,12 @@
 
 - User Authentication and Authorization -
 
-    Allow users to sign up and log in to their personal accounts using secure authentication mechanisms.
+Allow users to sign up and log in to their personal accounts using secure authentication mechanisms.
 Implement role-based access control for administrative tasks.
 
 - Expense and Category Management -
 
-    Enable users to create, update and delete expense entries and categories.
+Enable users to create, update and delete expense entries and categories.
 Track expenses by date, category and description.
 Support attaching receipts or other relevant documents to expense entries.
 
