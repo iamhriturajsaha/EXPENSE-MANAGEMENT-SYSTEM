@@ -115,9 +115,9 @@ Start the backend server
 
 ## Environment Variables
 
-- To run this project, you will need to add the following environment variables to your .env file in backend folder.
+- To run this project, you will need to add the following environment variables to your `.env` file in backend folder.
   
-- Create config folder and add config.env file in it and all all env variables there.
+- Create config folder and add `config.env` file in it and all all env variables there.
 
 `MONGO_URL` - Your MongoDB Connection String
 
@@ -126,7 +126,7 @@ Start the backend server
 
 ## Tech Stack
 
-**Client -** React, Redux, react-bootstrap, Material Icons, tsparticles
+**Client -** React, Redux, React-Bootstrap, Material Icons, tsParticles
 
 **Server -** Node, Express
 
